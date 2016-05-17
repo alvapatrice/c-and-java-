@@ -1,8 +1,9 @@
 <?php
 /**
- * User: Nostalgie
+ * Written by: Nostalgie
  * Date: 26-Apr-16
  * Time: 11:25 AM
+ * Chengdu Neusoft University
  */
 require_once("GeoLocation.php");
 
