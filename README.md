@@ -1,3 +1,3 @@
 # c-and-java-
-This Repository contains c,java and PHP codes that I have written in order to solve some real life problems or programming challenges
-some of them are ordinally real life puzzles such as counting the number of the leaves of a tree that i have tried to solve and others are tasks that are programmers are likely to meet in any project. such as geolocation, registration form so that they can be reused.
+Geolocation.php class is a PHP class that will help you to calculate the distance between two cordinates on the planet. each point on the earth is located at a unique coordinate(composed by longitude and latitude), using some mathematical algorithms we can calculate the real distance between 2 points on the globe. This class is usefull in projects in which the distance between 2 users is needed. 
+Check the codes and read the comments for clarifiction. The implement.php class shows how that class can be used and get the results. 
