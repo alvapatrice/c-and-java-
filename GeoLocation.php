@@ -1,9 +1,10 @@
 <?php
 
 /**
- * User: Nostalgie
+ * Written by: Nostalgie Patrice
  * Date: 26-Apr-16
  * Time: 11:21 AM
+ * Chengdu Neusoft University
  */
 class GeoLocation {
     private $radLat;  // latitude in radians
